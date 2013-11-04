@@ -1,0 +1,40 @@
+Partlist
+
+Exported from motorshield_jd.sch at 9/15/09 4:27 PM
+
+EAGLE Version 5.6.0 Copyright (c) 1988-2009 CadSoft
+
+Part     Value          Device          Package      Library          Sheet
+
+C1       .1mf           C-US025-025X050 C025-025X050 rcl              1
+C2       220mf          C-US025-025X050 C025-025X050 rcl              1
+IC1      MIC4429N       MIC4429N        DIL08        transistor-power 1
+IC2      MIC4429N       MIC4429N        DIL08        transistor-power 1
+IC3      ATMEGA168-PU   ATMEGA168-PU    DIL28-3      Arduino-AVR      1
+IC4      7805TV         7805TV          TO220V       linear           1
+IC5      MIC4420N       MIC4420N        DIL08        transistor-power 1
+IC6      MIC4420N       MIC4420N        DIL08        transistor-power 1
+IC9      MIC4429N       MIC4429N        DIL08        transistor-power 1
+IC10     MIC4429N       MIC4429N        DIL08        transistor-power 1
+IC11     MIC4420N       MIC4420N        DIL08        transistor-power 1
+IC12     MIC4420N       MIC4420N        DIL08        transistor-power 1
+R1       1k             R-EU_0204/2V    0204V        resistor         1
+R2       10k            R-EU_0204/2V    0204V        resistor         1
+R3       1k             R-EU_0204/2V    0204V        resistor         1
+R4       10k            R-EU_0204/2V    0204V        resistor         1
+R5       1k             R-EU_0204/2V    0204V        resistor         1
+R6       10k            R-EU_0204/2V    0204V        resistor         1
+R7       1k             R-EU_0204/2V    0204V        resistor         1
+R8       10k            R-EU_0204/2V    0204V        resistor         1
+R9       1k             R-EU_0204/2V    0204V        resistor         1
+R10      1k             R-EU_0204/2V    0204V        resistor         1
+R11      10k            R-EU_0204/2V    0204V        resistor         1
+R12      10k            R-EU_0204/2V    0204V        resistor         1
+R13      1k             R-EU_0204/2V    0204V        resistor         1
+R14      1k             R-EU_0204/2V    0204V        resistor         1
+R15      10k            R-EU_0204/2V    0204V        resistor         1
+R16      10k            R-EU_0204/2V    0204V        resistor         1
+T1                      PN_MOSFET-SO8   SO8          zetex            1
+T2                      PN_MOSFET-SO8   SO8          zetex            1
+T3                      PN_MOSFET-SO8   SO8          zetex            1
+T4                      PN_MOSFET-SO8   SO8          zetex            1
